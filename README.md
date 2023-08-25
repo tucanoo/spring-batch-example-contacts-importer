@@ -2,7 +2,7 @@
 
 This project showcases the capabilities of Spring Batch to efficiently handle bulk data operations, specifically the import of contacts from a CSV file to a database.
 
-This project is the accompanying source code to a full tutorial on https://tucanoo.com
+This project is the accompanying source code to a full tutorial on https://tucanoo.com/spring-batch-example-building-a-bulk-contact-importer/
 
 ## Purpose
 
@@ -24,7 +24,7 @@ After the application starts:
 
     http://localhost:8080/importExample/start
 
-    This initiates the import process using the sample CSV file `100k_sample_contacts.csv` which can be found under src/main/java/resource
+    This initiates the import process using the sample CSV file `100k_sample_contacts.csv` which can be found under src/main/resources
 
 2. To monitor the progress and status of the import job, visit:
 
